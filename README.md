@@ -14,7 +14,7 @@ cmake ..
 make
 ```
 
-#### linux
+#### windows
 
 ```
 msbuild rstring.sln
